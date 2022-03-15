@@ -1,5 +1,5 @@
 ### Hi there, I'm Laure 👋
-I've just finished the Wagon bootcamp in Datascience. I'm felling ready for new challenges !
+I've learnt datascience at le Wagon and I'm always ready for new challenges !
 
 <!--
 **casicoco/casicoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
