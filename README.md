@@ -1,5 +1,5 @@
 ### Hi there, I'm Laure 👋
-I learned datascience at le Wagon and I'm working on amazing projects. I'm always ready for new challenges !
+I studied datascience at le Wagon and I'm working on amazing projects. I'm always ready for new challenges !
 
 <!--
 **casicoco/casicoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
