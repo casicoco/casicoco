@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I'm Laure 👋</h1>
 <h3 align='center'>A freelance in datascience</h3>
-### Contact me here on [LinkedIn](https://www.linkedin.com/in/lauredegrave/) to discuss amazing projects !
+###Contact me here on [https://www.linkedin.com/in/lauredegrave/](LinkedIn) to discuss amazing projects !
 
 <!--
 **casicoco/casicoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
