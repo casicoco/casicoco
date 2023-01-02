@@ -1,7 +1,8 @@
 <h1 align='center'>Hi, I'm Laure 👋</h1>
 <h3 align='center'>A freelance in datascience</h3>
-<h3>Contact me here on [LinkedIn](https://www.linkedin.com/in/lauredegrave) to discuss amazing projects !</h3>
-[LinkedIn](https://www.linkedin.com/in/lauredegrave)
+<h3>Contact me here on [LinkedIn]: https://www.linkedin.com/in/lauredegrave to discuss amazing projects !</h3>
+
+
 <!--
 **casicoco/casicoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
